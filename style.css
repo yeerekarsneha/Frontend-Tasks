@@ -1,0 +1,28 @@
+.skills{
+color: green;
+background-color: lightyellow;
+}
+
+.projects{
+color: darkblue;
+background-color: lightcyan;
+}
+
+.internships{
+color: maroon;
+background-color: lavender;
+}
+
+.acheivements{
+color: darkgreen;
+background-color: lightpink;
+}
+
+.hobby{
+color: purple;
+background-color: lightgray;
+}
+center{
+color: white;
+background-color: teal;
+}
